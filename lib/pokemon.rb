@@ -1,3 +1,3 @@
 class Pokemon
-  attr_reader
+  attr_reader :id, 
 end
