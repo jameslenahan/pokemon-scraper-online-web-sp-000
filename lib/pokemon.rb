@@ -7,5 +7,6 @@ class Pokemon
     @name = name
     @type = type
     @hp = hp
+    @db = db
     
 end
